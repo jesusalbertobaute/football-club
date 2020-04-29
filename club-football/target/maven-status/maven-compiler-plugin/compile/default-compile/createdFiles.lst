@@ -1,5 +1,0 @@
-org\club\football\domain\Team.class
-org\club\football\service\impl\TeamServiceImpl.class
-org\club\football\controller\TeamController.class
-org\club\football\App.class
-org\club\football\service\TeamService.class
