@@ -15,7 +15,7 @@ public class TeamController {
 	private TeamService teamService;
 	
 	@GetMapping("/teams")
-	public List<Team> greeting() {
+	public List<Team> getAll() {
 		return teamService.getAll();
 	}
 }

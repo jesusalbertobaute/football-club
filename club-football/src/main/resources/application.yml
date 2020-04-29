@@ -1,0 +1,4 @@
+server:
+  port: 8280
+  servlet:
+     context-path: /football-club
